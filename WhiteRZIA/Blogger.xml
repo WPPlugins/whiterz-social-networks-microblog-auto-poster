@@ -1,0 +1,6 @@
+<entry xmlns="http://purl.org/atom/ns#">
+  <title mode="escaped" type="text">atom test</title>
+  <content type="htmll">
+    text
+  </content>
+</entry>
